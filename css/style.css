@@ -1,0 +1,45 @@
+h1 {
+    font-family: "Brush Script MT", cursive;
+    font-size: 40px;
+    background-color: coral;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Brush Script MT", cursive;
+    font-size: 30px;
+    background-color: plum;
+    color: white;
+}
+
+.main-image {
+    height: auto;
+    width: 450px;
+}
+
+.pasta-image {
+    height: auto;
+    width: 300px;
+}
+
+.rice-image {
+    height: auto;
+    width: 350px;
+}
+
+.soup-image {
+    height: auto;
+    width: 300px;
+}
+
+.links {
+    background-color: beige;
+    font-family: "Brush Script MT", cursive;
+    font-size: 25px;
+}
+
+.normal {
+    font-family: "Courier New", Monospace;
+    font-size: 15px;
+}
